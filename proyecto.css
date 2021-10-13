@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.titulo{
+    background-color: rgb(255, 255, 255);
+    text-shadow: 15px 12px rgba(72, 14, 232, 0.302);
+    color:rgb(10, 25, 73);
+    font-family:let;
+    text-align:center;
+    font-size : 50px;
+    margin: 10px 150px ;
+    border: 10px black solid;
+}
+.img{
+    margin: 10px 300px;
+    border: 10px black solid;
+    width: 680px;
+    height: 374px;
+}
+h3{
+    font-size : 45px;
+    font-family: cursive;
+    color:rgb(255, 7, 7);
+}
+p{
+    font-size : 30px;
+    font-family: cursive;
+    color:rgb(0, 0, 0);
+}
+button{
+    width: 40%;
+    font-family: cursive;
+    color: rgb(255, 251, 0);
+    font-size: 30px;
+    background-color: rgb(174, 0, 255);
+}
